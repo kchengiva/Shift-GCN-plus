@@ -73,12 +73,12 @@ Model|Dataset|Setting|Top1(%)
 ## Citation
 If you find this model useful for your research, please use the following BibTeX entry.
 
-@article{cheng2021extremely,
-  title={Extremely Lightweight Skeleton-Based Action Recognition With ShiftGCN++},
-  author={Cheng, Ke and Zhang, Yifan and He, Xiangyu and Cheng, Jian and Lu, Hanqing},
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={7333--7348},
-  year={2021},
-  publisher={IEEE}
-}
+    @article{cheng2021extremely,
+    title={Extremely Lightweight Skeleton-Based Action Recognition With ShiftGCN++},
+    author={Cheng, Ke and Zhang, Yifan and He, Xiangyu and Cheng, Jian and Lu, Hanqing},
+    journal={IEEE Transactions on Image Processing},
+    volume={30},
+    pages={7333--7348},
+    year={2021},
+    publisher={IEEE}
+    }
